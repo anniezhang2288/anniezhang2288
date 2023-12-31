@@ -25,5 +25,4 @@ hey there! I'm Annie, an EECS and Engineering Physics student studying at UC Ber
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I'm a member of [Launchpad](https://launchpad.berkeley.edu/) at Berkeley! ;
 - 📫 How to reach me: anniezhang2288@berkeley.edu;
-<img width="55%" align="center" alt="Github" src="https://uploads-ssl.webflow.com/63788e08faa874e552de167c/6401327122f48cdaaca16594_Frame.png
-" />
+<img width="55%" align="center" alt="Github" src="https://uploads-ssl.webflow.com/63788e08faa874e552de167c/6401327122f48cdaaca16594_Frame.png" />
