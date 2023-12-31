@@ -18,8 +18,12 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
+hey there! I'm Annie, an EECS and Engineering Physics student studying at UC Berkeley! I'm passionate about machine learning, with a keen interest in computer vision and software engineering. I love exploring new ideas and learning every day. Let's connect, cheers to growing together! 🚀 
+
 - 🌱 I’m currently learning React and Pytorch; 
 - 🤔 I’m looking for help with computer vision;
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I'm a physics major XD;
+- ⚡️ Fun-Fact: I have two dogs!;
 - 📫 How to reach me: anniezhang2288@berkeley.edu;
+<img width="55%" align="center" alt="Github" src="https://uploads-ssl.webflow.com/63788e08faa874e552de167c/6401327122f48cdaaca16594_Frame.png
+" />
