@@ -25,7 +25,7 @@ hey there! I'm annie, an eecs and engineering physics student studying at uc ber
 ## Skills 🛠️
 - **Programming Languages**: Python, C++, JavaScript, HTML, CSS, Java
 - **Frameworks**: TensorFlow, React, Next.js
-- **Libraries**: Git, NumPy, Pandas, Matplotlib, PyTorch, BeautifulSoup, MediaPipe, NLTK, RegEx
+- **Libraries**: Git, NumPy, Pandas, Matplotlib, PyTorch, NLTK, RegEx
 
 ## Experience 🌟
 
