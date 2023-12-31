@@ -20,3 +20,4 @@ hey there! I'm annie, an eecs and engineering physics student studying at uc ber
 - 💬 Ask me about anything, I am happy to help
 - ⚡️ Fun-Fact: I'm a member of [Launchpad](https://launchpad.berkeley.edu/) at Berkeley! 
 - 📫 How to reach me: anniezhang2288@berkeley.edu
+- Here's some stuff that I've worked on in the past: [resume](https://drive.google.com/file/d/1aVru3NnCILvRfqmHebasC9ERRfWgPojg/view?usp=sharing)
