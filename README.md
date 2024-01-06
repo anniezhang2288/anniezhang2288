@@ -14,7 +14,7 @@ You can use the website to generate badges: https://shields.io/
 
 hey there! I'm annie, an eecs and engineering physics student studying at uc berkeley! I'm passionate about machine learning, with a keen interest in computer vision and software engineering. I love exploring new ideas and learning every day. Awesome to meet you! Cheers to growing together! 🚀 
 
-- 🌱 I’m currently learning React and Pytorch
+- 🌱 I’m currently learning React and LLMs
 - 🤔 I’m looking for help with computer vision
 - 💬 Ask me about anything, I am happy to help
 - ⚡️ Fun-Fact: I'm a member of [Launchpad](https://launchpad.berkeley.edu/) at Berkeley! 
