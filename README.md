@@ -1,5 +1,5 @@
 <!-- Your title -->
-## hey there! I'm Annie XD
+## hey there! I'm Annie XD 🌱
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
