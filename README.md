@@ -3,7 +3,7 @@
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
-[![Resume](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://drive.google.com/file/d/1aVru3NnCILvRfqmHebasC9ERRfWgPojg/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://anniezhang2288.github.io/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anniezhang2288/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/annie_zhang2288/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anniezhang2288@berkeley.edu)
