@@ -18,7 +18,6 @@ hey there! I'm annie, an eecs and engineering physics student studying at uc ber
 - 🤔 I’m looking for help with computer vision
 - 💬 Ask me about anything, I am happy to help
 - ⚡️ Fun-Fact: I'm a member of [Launchpad](https://launchpad.berkeley.edu/) at Berkeley!
-- Hobbies: jogging, photography, swimming, hiking
 - Stuff I've worked on in the past: [resume](https://anniezhang2288.github.io/resume.pdf)
 - 📫 How to reach me: anniezhang2288@berkeley.edu
 
